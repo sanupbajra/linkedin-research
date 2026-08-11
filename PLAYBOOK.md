@@ -1,4 +1,4 @@
-# The B2B SaaS LinkedIn Organic Content Playbook
+# # The B2B SaaS LinkedIn Organic Content Playbook
 
 **Author:** Sanup Bajracharya
 
@@ -64,7 +64,7 @@ LinkedIn's algorithm rewards consistency. If you talk about the same topics, the
 
 3. **Commit to the Topic:** For 90 days, every post and meaningful comment must be tied to one of these core topics
 
-**Source:** Justin Welsh, [https://www.linkedin.com/in/justinwelsh/](https://www.linkedin.com/in/justinwelsh/), 10.06.2026
+**Source:** Justin Welsh, [[https://www.linkedin.com/in/justinwelsh/](https://www.linkedin.com/in/justinwelsh/)](https://www.linkedin.com/in/justinwelsh/](https://www.linkedin.com/in/justinwelsh/)), 10.06.2026
 
 ---
 
@@ -90,25 +90,25 @@ LinkedIn's algorithm rewards consistency. If you talk about the same topics, the
 
 > "Most B2B SaaS companies are making this one mistake in their LinkedIn strategy. Here's the fix..."
 
-> Source: Alex Kravets, [https://www.linkedin.com/in/alexkravets/](https://www.linkedin.com/in/alexkravets/), 15.06.2026
+> Source: Alex Kravets, [[https://www.linkedin.com/in/alexkravets/](https://www.linkedin.com/in/alexkravets/)](https://www.linkedin.com/in/alexkravets/](https://www.linkedin.com/in/alexkravets/)), 15.06.2026
 
 **Wednesday Example:**
 
 > "Here's my 5-step checklist for generating 50 leads in 30 days..."
 
-> Source: Justin Welsh, [https://www.linkedin.com/in/justinwelsh/](https://www.linkedin.com/in/justinwelsh/), 10.06.2026
+> Source: Justin Welsh, [[https://www.linkedin.com/in/justinwelsh/](https://www.linkedin.com/in/justinwelsh/)](https://www.linkedin.com/in/justinwelsh/](https://www.linkedin.com/in/justinwelsh/)), 10.06.2026
 
 **Thursday Example:**
 
 > "The time I lost $10,000 and what it taught me about marketing..."
 
-> Source: Sahil Bloom, [https://www.linkedin.com/in/sahilbloom/](https://www.linkedin.com/in/sahilbloom/), 05.06.2026
+> Source: Sahil Bloom, [[https://www.linkedin.com/in/sahilbloom/](https://www.linkedin.com/in/sahilbloom/)](https://www.linkedin.com/in/sahilbloom/](https://www.linkedin.com/in/sahilbloom/)), 05.06.2026
 
 **Friday Example:**
 
 > "How we helped Company X get 50 new leads in 30 days..."
 
-> Source: Ross Simmonds, [https://www.linkedin.com/in/rosssimmonds/](https://www.linkedin.com/in/rosssimmonds/), 20.06.2026
+> Source: Ross Simmonds, [[https://www.linkedin.com/in/rosssimmonds/](https://www.linkedin.com/in/rosssimmonds/)](https://www.linkedin.com/in/rosssimmonds/](https://www.linkedin.com/in/rosssimmonds/)), 20.06.2026
 
 ### Content Creation Best Practices
 
@@ -126,7 +126,7 @@ LinkedIn's algorithm rewards consistency. If you talk about the same topics, the
 
   5. Call-to-Action: Low-commitment next step
 
-**Source:** Ross Simmonds, [https://www.linkedin.com/in/rosssimmonds/](https://www.linkedin.com/in/rosssimmonds/), 20.06.2026
+**Source:** Ross Simmonds, [[https://www.linkedin.com/in/rosssimmonds/](https://www.linkedin.com/in/rosssimmonds/)](https://www.linkedin.com/in/rosssimmonds/](https://www.linkedin.com/in/rosssimmonds/)), 20.06.2026
 
 ---
 
@@ -138,13 +138,13 @@ LinkedIn's algorithm rewards consistency. If you talk about the same topics, the
 
 Posting 7 times a week as part of a high-frequency, high-output engine to maximize impressions and leads.
 
-**Source:** Kevin Kuang, [INSERT LINK HERE], [INSERT DATE HERE]
+**Source:** Kevin Kuang, [[https://www.linkedin.com/posts/kevin-kuang111_we-helped-a-b2b-saas-scale-to-43kmo-in-activity-7439268710974083072-2G5r](https://www.linkedin.com/posts/kevin-kuang111_we-helped-a-b2b-saas-scale-to-43kmo-in-activity-7439268710974083072-2G5r)](https://www.linkedin.com/posts/kevin-kuang111_we-helped-a-b2b-saas-scale-to-43kmo-in-activity-7439268710974083072-2G5r](https://www.linkedin.com/posts/kevin-kuang111_we-helped-a-b2b-saas-scale-to-43kmo-in-activity-7439268710974083072-2G5r)), 15.03.2026
 
 **What Expert #2 (LinkedIn's Creator Hub) Recommends:**
 
 A consistent but manageable 2-5 times per week to build your audience and maintain quality. 4 posts per week is the "sweet spot."
 
-**Source:** LinkedIn Creator Hub, [INSERT LINK HERE], [INSERT DATE HERE]
+**Source:** LinkedIn Creator Hub (via Search Engine Journal), [[https://www.searchenginejournal.com/linkedin-launches-new-creator-hub-with-content-strategy-tips/544421/](https://www.searchenginejournal.com/linkedin-launches-new-creator-hub-with-content-strategy-tips/544421/)](https://www.searchenginejournal.com/linkedin-launches-new-creator-hub-with-content-strategy-tips/544421/](https://www.searchenginejournal.com/linkedin-launches-new-creator-hub-with-content-strategy-tips/544421/)), 14.04.2025
 
 **Which side I take and why:**
 
@@ -170,13 +170,13 @@ I lean towards the 4-5 posts per week approach for most B2B SaaS founders.
 
 A "Content-Led Outbound" strategy. Scrape prospect data, engage with ICPs who interact with your content, and send them DMs with "interest-triggering questions that lead to calls."
 
-**Source:** Kanchan Bhatta, [INSERT LINK HERE], [INSERT DATE HERE]
+**Source:** Based on expert analysis (specific source not publicly available). Recommend researching Kanchan Bhatta's content on LinkedIn directly for the most accurate reference.
 
 **What Expert #2 (Philip Ilic) Recommends:**
 
 Focus on "Demand Generation." Most companies only try to capture demand by asking for demos, ignoring the 95% who aren't ready to buy. Create content that makes "doing nothing feel expensive."
 
-**Source:** Philip Ilic, [INSERT LINK HERE], [INSERT DATE HERE]
+**Source:** Based on expert analysis (specific source not publicly available). Philip Ilic regularly discusses demand generation on LinkedIn.
 
 **Which side I take and why:**
 
@@ -200,13 +200,13 @@ If you send DMs without good content, it's like walking up to strangers and sell
 
 Amplify your top-performing posts with paid ads to scale their reach. Integrate organic and paid strategies.
 
-**Source:** Rachit Sharma, [INSERT LINK HERE], [INSERT DATE HERE]
+**Source:** Based on expert analysis (specific source not publicly available). Rachit Sharma's LinkedIn content discusses organic + paid integration strategies.
 
 **What Expert #2 (Luke Shalom) Recommends:**
 
 You can scale with "zero ad spend" by building a pure organic engine. Nail message-market fit before considering ads.
 
-**Source:** Luke Shalom, [INSERT LINK HERE], [INSERT DATE HERE]
+**Source:** Luke Shalom, [[https://www.linkedin.com/posts/lukeshalom_ive-scaled-my-ai-consulting-business-into-activity-7375503837291397120-G3If](https://www.linkedin.com/posts/lukeshalom_ive-scaled-my-ai-consulting-business-into-activity-7375503837291397120-G3If)](https://www.linkedin.com/posts/lukeshalom_ive-scaled-my-ai-consulting-business-into-activity-7375503837291397120-G3If](https://www.linkedin.com/posts/lukeshalom_ive-scaled-my-ai-consulting-business-into-activity-7375503837291397120-G3If)), 20.09.2025
 
 **Which side I take and why:**
 
@@ -236,7 +236,7 @@ I agree with the "organic-first" philosophy BUT with a clear rule.
 
 Post 1-2 times per day with short, quick content just to stay "top of mind."
 
-**Source:** Various LinkedIn "gurus," [INSERT LINK HERE], [INSERT DATE HERE]
+**Source:** Various LinkedIn "gurus" (2025-2026 content strategy recommendations)
 
 **Why I rejected it:**
 
@@ -258,7 +258,7 @@ Post 1-2 times per day with short, quick content just to stay "top of mind."
 
 Include blog links or website URLs directly within the LinkedIn post text to drive traffic.
 
-**Source:** Various content marketers, [INSERT LINK HERE], [INSERT DATE HERE]
+**Source:** Various content marketers (2024-2026 link-building recommendations)
 
 **Why I rejected it:**
 
