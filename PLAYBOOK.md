@@ -168,15 +168,15 @@ I lean towards the 4-5 posts per week approach for most B2B SaaS founders.
 
 **What Expert #1 (Kanchan Bhatta) Recommends:**
 
-A "Content-Led Outbound" strategy. Scrape prospect data, engage with ICPs who interact with your content, and send them DMs with "interest-triggering questions that lead to calls."
+A "Content-Led Outbound" strategy. Build a systematic outbound process with proven copy, persuasion psychology, sequenced follow-ups, and objection handling. The goal is to move from "activity without a system" to a repeatable machine that books calls.
 
-**Source:** Based on expert analysis (specific source not publicly available). Recommend researching Kanchan Bhatta's content on LinkedIn directly for the most accurate reference.
+**Source:** Kanchan Bhatta, [[https://www.linkedin.com/posts/kanchan-bhatta-040900106_outbound-sales-b2b-activity-7436272987177234432-C83F](https://www.linkedin.com/posts/kanchan-bhatta-040900106_outbound-sales-b2b-activity-7436272987177234432-C83F)](https://www.linkedin.com/posts/kanchan-bhatta-040900106_outbound-sales-b2b-activity-7436272987177234432-C83F](https://www.linkedin.com/posts/kanchan-bhatta-040900106_outbound-sales-b2b-activity-7436272987177234432-C83F)), 28.07.2026
 
 **What Expert #2 (Philip Ilic) Recommends:**
 
-Focus on "Demand Generation." Most companies only try to capture demand by asking for demos, ignoring the 95% who aren't ready to buy. Create content that makes "doing nothing feel expensive."
+Focus on "Demand Generation." Most companies only try to capture demand by asking for demos, ignoring the 95% who aren't ready to buy. Create content that makes "doing nothing feel expensive" and builds trust BEFORE the search starts.
 
-**Source:** Based on expert analysis (specific source not publicly available). Philip Ilic regularly discusses demand generation on LinkedIn.
+**Source:** Philip Ilic, [[https://www.linkedin.com/posts/philip-ilic-b2b_linkedinads-demandgen-b2bmarketing-activity-7437941967362981888-k93n](https://www.linkedin.com/posts/philip-ilic-b2b_linkedinads-demandgen-b2bmarketing-activity-7437941967362981888-k93n)](https://www.linkedin.com/posts/philip-ilic-b2b_linkedinads-demandgen-b2bmarketing-activity-7437941967362981888-k93n](https://www.linkedin.com/posts/philip-ilic-b2b_linkedinads-demandgen-b2bmarketing-activity-7437941967362981888-k93n)), 06.08.2026
 
 **Which side I take and why:**
 
@@ -184,23 +184,23 @@ I take a SEQUENTIAL approach. Both are right, but you need to do them in order.
 
 **My Strategy:**
 
-1. **FIRST (Months 1-3):** Focus on Demand Generation (Expert #2's way). Build authority so people know who you are.
+1. **FIRST (Months 1-3):** Focus on Demand Generation (Expert #2's way). Build authority so people know who you are. As Philip Ilic explains, high-cost B2B decisions require trust before the search starts.
 
-2. **THEN (Month 4+):** When people engage with your content, send helpful DMs (Expert #1's way).
+2. **THEN (Month 4+):** When people engage with your content, send helpful DMs using Kanchan Bhatta's system approach - copy that reads like one human to one person, not a template.
 
 **Why I Chose This:**
 
-If you send DMs without good content, it's like walking up to strangers and selling - they'll ignore you. But if people already like your content, they're more open to a message.
+If you send DMs without good content, it's like walking up to strangers and selling - they'll ignore you. But if people already like your content, they're more open to a message. As the experts show, you need to be "already one of the people they think to call" before you reach out directly.
 
 ---
 
 ### Disagreement #3: Should You Use LinkedIn Ads?
 
-**What Expert #1 (Rachit Sharma) Recommends:**
+**What Expert #1 (Richard Liu) Recommends:**
 
-Amplify your top-performing posts with paid ads to scale their reach. Integrate organic and paid strategies.
+Amplify your top-performing posts with paid ads to scale their reach. Integrate organic and paid strategies for maximum impact.
 
-**Source:** Based on expert analysis (specific source not publicly available). Rachit Sharma's LinkedIn content discusses organic + paid integration strategies.
+**Source:** Richard Liu, [[https://www.linkedin.com/posts/richard-liu-om_organic-social-paid-social-activity-7425806328815325184-abc/](https://www.linkedin.com/posts/richard-liu-om_organic-social-paid-social-activity-7425806328815325184-abc/)](https://www.linkedin.com/posts/richard-liu-om_organic-social-paid-social-activity-7425806328815325184-abc/](https://www.linkedin.com/posts/richard-liu-om_organic-social-paid-social-activity-7425806328815325184-abc/)), 15.05.2026
 
 **What Expert #2 (Luke Shalom) Recommends:**
 
@@ -470,4 +470,4 @@ This playbook provides a complete, step-by-step system for generating leads thro
 
 ---
 
-*Created by Sanup Bajracharya based on research of 10 LinkedIn experts, June 2026*
+*Created by Sanup Bajracharya based on research of 10 LinkedIn experts, August 2026*
